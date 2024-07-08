@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**lelevan3010/lelevan3010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Van, a dedicated and skilled software engineer 👨‍💻. 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working at David Health Solutions in Helsinki
+- 👯 I’m looking to collaborate on cutting-edge web projects and innovative products.
+- 💬 Feel free to ask me anything about web development or any other topic you're curious about.
+- 📫 You can reach out to me on 👔 [LinkedIn](https://www.linkedin.com/in/lelevan3010/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*My Dev Card*
+
+<a href="https://app.daily.dev/lelevan3010"><img src="https://api.daily.dev/devcards/v2/eW9A2ki8nUooYdI559qnZ.png?r=hky&type=default" width="260" alt="Van Nguyen's Dev Card"/></a>
+
+*My StackOverflow*
+
+<a href="https://stackoverflow.com/users/9710932/van-nguyen"><img src="https://stackoverflow.com/users/flair/9710932.png" width="208" height="58" alt="profile for Van Nguyen at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Van Nguyen at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
